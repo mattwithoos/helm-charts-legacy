@@ -7,9 +7,9 @@ icon: https://bitnami.com/assets/stacks/elasticsearch/img/elasticsearch-stack-11
 keywords:
 - elasticsearch
 maintainers:
-- email: containers@bitnami.com
-  name: Bitnami
-name: elasticsearch
+- email: mattwithoos@gmail.com
+  name: MattWithoos
+name: legacy-elasticsearch-9.0.4
 sources:
-- https://github.com/bitnami/bitnami-docker-elasticsearch
+- https://github.com/mattwithoos/helm-charts-legacy
 version: 9.0.4
