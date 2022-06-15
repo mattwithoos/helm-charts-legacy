@@ -1,5 +1,24 @@
 apiVersion: v1
 entries:
+  hcl-elasticsearch:
+  - apiVersion: v1
+    appVersion: 7.5.0
+    created: "2022-06-15T01:50:10.511337754Z"
+    description: A highly scalable open-source full-text search and analytics engine
+    digest: cfd761b5f56c75c9ca047b28aff51dc593ee020d8967ec1b0b3967cddfc6e89f
+    home: https://www.elastic.co/products/elasticsearch
+    icon: https://bitnami.com/assets/stacks/elasticsearch/img/elasticsearch-stack-110x117.png
+    keywords:
+    - elasticsearch
+    maintainers:
+    - email: mattwithoos@gmail.com
+      name: MattWithoos
+    name: hcl-elasticsearch
+    sources:
+    - https://github.com/mattwithoos/helm-charts-legacy
+    urls:
+    - https://github.com/mattwithoos/helm-charts-legacy/releases/download/hcl-elasticsearch-9.0.4/hcl-elasticsearch-9.0.4.tgz
+    version: 9.0.4
   legacy-elasticsearch-9.0.4:
   - apiVersion: v1
     appVersion: 7.5.0
