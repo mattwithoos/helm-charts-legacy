@@ -9,7 +9,7 @@ keywords:
 maintainers:
 - email: mattwithoos@gmail.com
   name: MattWithoos
-name: legacy-elasticsearch-9.0.4
+name: hcl-elasticsearch
 sources:
 - https://github.com/mattwithoos/helm-charts-legacy
 version: 9.0.4
